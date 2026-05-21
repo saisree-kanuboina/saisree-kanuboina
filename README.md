@@ -1,5 +1,5 @@
-Hi, I'm Saisree Kanuboina 👋  
-Frontend Developer • HTML • CSS • JavaScript • Responsive Web Design
+#Hi, I'm Saisree Kanuboina 👋  
+**Frontend Developer** • HTML • CSS • JavaScript • Responsive Web Design
 
 🔭 Current project: Personal Portfolio Website & Resume Website
 🌱 Learning: Advanced JavaScript, Responsive Design, Modern UI Development
