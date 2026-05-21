@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Saisree Kanuboina 👋  
+Frontend Developer • HTML • CSS • JavaScript • Responsive Web Design
 
-<!--
-**saisree-kanuboina/saisree-kanuboina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Current project: Personal Portfolio Website & Resume Website
+🌱 Learning: Advanced JavaScript, Responsive Design, Modern UI Development
+🎨 Interested in creating clean and user-friendly web interfaces
+🌐 LinkedIn: [Add Link] • 📫 saisrikanuboina111@gmail.com
 
-Here are some ideas to get you started:
+Tech
+HTML5, CSS3, JavaScript, Responsive Web Design, VS Code, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects (Pinned Below)
+1. Portfolio Website – Personal portfolio with responsive design
+2. Resume Website – Professional resume using HTML & CSS
+3. Landing Page Design – Modern responsive webpage UI
