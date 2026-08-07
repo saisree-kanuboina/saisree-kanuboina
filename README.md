@@ -1,23 +1,45 @@
-#Hi, I'm Saisree Kanuboina 👋
+## Hi, I'm Saisree Kanuboina 👋
 
-**Frontend Developer** • HTML • CSS • JavaScript •  react.js • Responsive Web Design
+## Aspiring Web Developer
 
-🔭 Current project: Personal Portfolio Website & Resume Website
+💻 Passionate about building responsive, user-friendly web applications.
 
-🌱 Learning: Advanced JavaScript, Responsive Design, Modern UI Development
+🎓 BCA Student (2024–2027)
 
-🎨 Interested in creating clean and user-friendly web interfaces
+🌱 Currently learning:
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- React.js
+- MySQL
 
-🌐 LinkedIn:https:https://www.linkedin.com/in/saisree-kanuboina-bb30373a9/• 📫 saisrikanuboina111@gmail.com
+🚀 Open to internships and entry-level web development opportunities.
 
+📍 Andhra Pradesh, India
 
+---
 
-##Tech
+## 🛠️ Tech Stack
 
-HTML5, CSS3, JavaScript, Responsive Web Design, VS Code, GitHub
+- HTML5
+- CSS3
+- JavaScript
+- Node.js
+- React.js
+- MySQL
+- Responsive Web Design
+- GitHub
+- VS Code
 
-##Projects (Pinned Below)
+---
 
-1. Portfolio Website – Personal portfolio with responsive design
-2. Resume Website – Professional resume using HTML & CSS
-3. Landing Page Design – Modern responsive webpage UI
+##📫 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/saisree-kanuboina-bb30373a9/
+
+📧 Email: saisrikanuboina111@gmail.com
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
