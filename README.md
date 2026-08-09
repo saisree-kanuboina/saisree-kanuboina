@@ -1,20 +1,27 @@
-## Hi, I'm Saisree Kanuboina 👋
+# Hi, I'm Saisree Kanuboina 👋
 
-## Aspiring Web Developer
+## Aspiring Software & Web Developer
 
-💻 Passionate about building responsive, user-friendly web applications.
+💻 Passionate about building responsive, user-friendly and practical applications.
 
-🎓 BCA Student (2024–2027)
+🎓 BCA Student | 2024–2027
 
-🌱 Currently learning:
+🌱 Currently learning and improving my skills in:
+- Python
+- JavaScript
 - HTML
 - CSS
-- JavaScript
-- Node.js
 - React.js
+- Node.js
 - MySQL
 
-🚀 Open to internships and entry-level web development opportunities.
+🚀 Interested in:
+- Software Development
+- Web Development
+- Front-End Development
+- Application Development
+
+💡 I enjoy learning new technologies, solving problems, and turning ideas into practical applications.
 
 📍 Andhra Pradesh, India
 
@@ -22,24 +29,51 @@
 
 ## 🛠️ Tech Stack
 
+### Programming
+- Python
+- JavaScript
+
+### Web Development
 - HTML5
 - CSS3
-- JavaScript
-- Node.js
-- React.js
-- MySQL
 - Responsive Web Design
+- React.js
+
+### Backend & Database
+- Node.js
+- PHP
+- MySQL
+
+### Tools
 - GitHub
 - VS Code
+- XAMPP
 
 ---
 
-##📫 Connect With Me
+## 📌 What I'm Working On
 
-🔗 LinkedIn: https://www.linkedin.com/in/saisree-kanuboina-bb30373a9/
-
-📧 Email: saisrikanuboina111@gmail.com
+- Building responsive web applications
+- Improving my JavaScript and Python skills
+- Learning modern web development technologies
+- Exploring software and application development
 
 ---
 
-⭐ Thank you for visiting my GitHub profile!
+## 🎯 Career Interests
+
+I am looking for internship and entry-level opportunities in:
+
+- Software Development
+- Web Development
+- Front-End Development
+- Application Development
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/saisree-kanuboina-bb30373a9/
+- GitHub: https://github.com/saisree-kanuboina
+
+Thanks for visiting my profile! ⭐
