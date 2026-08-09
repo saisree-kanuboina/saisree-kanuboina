@@ -1,7 +1,9 @@
 # Hi, I'm Saisree Kanuboina 👋
 
 💻 Interested in Software Engineering and Web Development.
+
 🎓 BCA Student | 2024–2027
+
 🌱 Currently learning and improving my skills in:
 - Python
 - JavaScript
