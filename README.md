@@ -1,11 +1,8 @@
 # Hi, I'm Saisree Kanuboina 👋
 
-## Aspiring Software & Web Developer
-
-💻 Passionate about building responsive, user-friendly and practical applications.
+## Aspiring Software Engineering  & Web Development
 
 🎓 BCA Student | 2024–2027
-
 🌱 Currently learning and improving my skills in:
 - Python
 - JavaScript
@@ -16,7 +13,7 @@
 - MySQL
 
 🚀 Interested in:
-- Software Development
+- Software Engineering
 - Web Development
 - Front-End Development
 - Application Development
@@ -63,12 +60,10 @@
 ## 🎯 Career Interests
 
 I am looking for internship and entry-level opportunities in:
-
-- Software Development
+- Software Engineering
 - Web Development
 - Front-End Development
 - Application Development
-
 ---
 
 ## 🤝 Connect With Me
